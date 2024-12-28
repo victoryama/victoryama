@@ -1,4 +1,4 @@
-## 😄 Hi there, I`m Victor Yama! 
+## 😄 Hi there, I'm Victor Yama! 
 
 ⚡Contantly studying to improve my software egineering skills
 
