@@ -1,6 +1,6 @@
 ## 😄 Hi there, I`m Victor Yama! 
 
-⚡Contantly studying to improve my software egineering
+⚡Contantly studying to improve my software egineering skills
 
 <!--
 **victoryama/victoryama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
